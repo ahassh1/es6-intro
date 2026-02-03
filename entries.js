@@ -20,4 +20,4 @@ const freeze = Object.freeze(employee);
 console.log(freeze);
 
 delete employee.age;
-console.log(employee);
+console.log(employee); //delete
